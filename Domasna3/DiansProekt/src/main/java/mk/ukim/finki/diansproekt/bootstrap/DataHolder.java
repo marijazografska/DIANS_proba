@@ -25,6 +25,7 @@ public class DataHolder {
         monumentList.add(new Monument(6L,"Симиќева кула", "North Macedonia", "Кратово", 21,42, "Simikj Tower, Трајче Арсов, Kratovo, North Macedonia", "monument", "always open", "email",38977734634L));
         monumentList.add(new Monument(7L,"Споменик Костурница", "North Macedonia", "Куманово", 21,42, "Споменик Костурница, Средорек, 1300 Kumanovo, North Macedonia", "monument", "always open", "email",38973463626L));
         monumentList.add(new Monument(8L,"Јосип Броз - Тито", "North Macedonia", "Куманово", 21,42, "Јосип Броз - Тито, Иво Лола Рибар, 1300 Kumanovo, North Macedonia", "monument", "always open", "email",38975468954L));
+        monumentList.add(new Monument(8L,"proba", "North Macedonia", "proba", 21,42, "proba, proba, North Macedonia", "monument", "always open", "email",38975468954L));
 
     }
 }
